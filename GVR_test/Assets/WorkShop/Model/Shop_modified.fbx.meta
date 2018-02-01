@@ -1,0 +1,252 @@
+fileFormatVersion: 2
+guid: 973d713e985664319991ae18cac90d88
+timeCreated: 1517448282
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: Brush
+    100002: Brush_Hang
+    100004: Can_Brushes
+    100006: Chair
+    100008: door
+    100010: door_frame
+    100012: Hammer
+    100014: Horse
+    100016: Light_Fixture1
+    100018: Light_Fixture2
+    100020: Light_Shade
+    100022: LightBulb
+    100024: Mallet
+    100026: Mallet1
+    100028: Mallet2
+    100030: Mallet3
+    100032: peg1
+    100034: peg2
+    100036: peg3
+    100038: pegboard
+    100040: Shop
+    100042: //RootNode
+    100044: Window1
+    100046: WorkBench
+    400000: Brush
+    400002: Brush_Hang
+    400004: Can_Brushes
+    400006: Chair
+    400008: door
+    400010: door_frame
+    400012: Hammer
+    400014: Horse
+    400016: Light_Fixture1
+    400018: Light_Fixture2
+    400020: Light_Shade
+    400022: LightBulb
+    400024: Mallet
+    400026: Mallet1
+    400028: Mallet2
+    400030: Mallet3
+    400032: peg1
+    400034: peg2
+    400036: peg3
+    400038: pegboard
+    400040: Shop
+    400042: //RootNode
+    400044: Window1
+    400046: WorkBench
+    2300000: Brush
+    2300002: Brush_Hang
+    2300004: Can_Brushes
+    2300006: Chair
+    2300008: door
+    2300010: door_frame
+    2300012: Hammer
+    2300014: Horse
+    2300016: Light_Fixture1
+    2300018: Light_Fixture2
+    2300020: Light_Shade
+    2300022: LightBulb
+    2300024: Mallet
+    2300026: Mallet1
+    2300028: Mallet2
+    2300030: Mallet3
+    2300032: peg1
+    2300034: peg2
+    2300036: peg3
+    2300038: pegboard
+    2300040: Shop
+    2300042: Window1
+    2300044: WorkBench
+    3300000: Brush
+    3300002: Brush_Hang
+    3300004: Can_Brushes
+    3300006: Chair
+    3300008: door
+    3300010: door_frame
+    3300012: Hammer
+    3300014: Horse
+    3300016: Light_Fixture1
+    3300018: Light_Fixture2
+    3300020: Light_Shade
+    3300022: LightBulb
+    3300024: Mallet
+    3300026: Mallet1
+    3300028: Mallet2
+    3300030: Mallet3
+    3300032: peg1
+    3300034: peg2
+    3300036: peg3
+    3300038: pegboard
+    3300040: Shop
+    3300042: Window1
+    3300044: WorkBench
+    4300000: Brush_Hang
+    4300002: Brush
+    4300004: Can_Brushes
+    4300006: Mallet
+    4300008: Horse
+    4300010: Light_Shade
+    4300012: Light_Fixture2
+    4300014: LightBulb
+    4300016: Light_Fixture1
+    4300018: door_frame
+    4300020: pegboard
+    4300022: WorkBench
+    4300024: Hammer
+    4300026: peg1
+    4300028: peg2
+    4300030: peg3
+    4300032: Chair
+    4300034: Mallet1
+    4300036: Mallet2
+    4300038: Mallet3
+    4300040: Window1
+    4300042: door
+    4300044: Shop
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Brush_Hang1
+    second: {fileID: 2100000, guid: 20d3c58d04a774235a45ce17e2f2d626, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Door
+    second: {fileID: 2100000, guid: e4370e5643f944f569961f1cdc21f7a3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Horse1
+    second: {fileID: 2100000, guid: 33c7d97a89f85474388e53f8e56602ad, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mallet4
+    second: {fileID: 2100000, guid: 53280d3683f8d497abc0fb444d398fc0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Shop1
+    second: {fileID: 2100000, guid: c5651d405c9e44fce86eaf267a4e2730, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Tools
+    second: {fileID: 2100000, guid: 5babf559ce31b42c19234c77a8591ee0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Wood
+    second: {fileID: 2100000, guid: b1a99b1cd50214039a046582de2bc45a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: WorkBench1
+    second: {fileID: 2100000, guid: 3e00c63a9437744bbb2e89c5c2a2e4ed, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lambert1
+    second: {fileID: 2100000, guid: ccc17f371ea124349bae9af099ff9e4b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lambert2
+    second: {fileID: 2100000, guid: dc06d6c4c69204417b2077738f1658ee, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
